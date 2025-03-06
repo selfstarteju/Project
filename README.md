@@ -1,5 +1,3 @@
-# Project
-Placement-Cell-Application
 # 𝐏𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭 𝐂𝐞𝐥𝐥 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🚀
 
 <br/>
@@ -127,9 +125,6 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 
 ## 🐦 Follow Me:
 
-<p>[LinkedIn](https://www.linkedin.com/in/tejasrajuawsare)
-</p>
-<br/>
-<p>
+> [LinkedIn](https://www.linkedin.com/in/tejasrajuawsare)
+
 I hope you like the project. Thanks for reading :)
-</p>
